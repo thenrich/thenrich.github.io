@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<extensions>
+
+	<details>
+		<title lang="EN">thenrich LMS plugins</title>
+	</details>	
+
+	<plugins>
+
+		<plugin name="Songza" version="0.0.1" minTarget="7.5" maxTarget="*">
+			<title lang="EN">3rd Party Songza Plugin</title>
+			<desc  lang="EN">Songza plugin</desc>
+			<creator>Tim Henrich</creator>
+			<email>tim.henrich@gmail.com</email>
+			<url>http://thenrich.github.com/lms-songza/repository/Songza-0.0.1.zip</url>
+			<sha>132afc923bdb0bac62ce4d326f78c9e29a590862</sha>
+			<link>http://thenrich.github.io/lms-songza/</link>
+		</plugin>
+
+	</plugins>
+
+</extensions>
