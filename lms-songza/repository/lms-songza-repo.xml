@@ -8,7 +8,7 @@
 
 	<plugins>
 
-		<plugin name="Songza" version="0.0.1" minTarget="7.5" maxTarget="*">
+		<plugin name="Songza" version="0.0.2" minTarget="7.5" maxTarget="*">
 			<title lang="EN">3rd Party Songza Plugin</title>
 			<desc  lang="EN">Songza plugin</desc>
 			<creator>Tim Henrich</creator>
