@@ -13,8 +13,8 @@
 			<desc  lang="EN">Songza plugin</desc>
 			<creator>Tim Henrich</creator>
 			<email>tim.henrich@gmail.com</email>
-			<url>http://thenrich.github.com/lms-songza/repository/Songza-0.0.2.zip</url>
-			<sha>90ff5b2f5564878f392c3ded3574f5d65e84f9d7</sha>
+			<url>http://thenrich.github.com/lms-songza/repository/Songza-0.0.4.zip</url>
+			<sha>fa0c53edd7b8cd8c17d9dfb5f3dccd2f07d6e89a</sha>
 			<link>http://thenrich.github.io/lms-songza/</link>
 		</plugin>
 
