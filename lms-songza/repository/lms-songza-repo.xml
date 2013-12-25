@@ -8,13 +8,13 @@
 
 	<plugins>
 
-		<plugin name="Songza" version="0.0.3" minTarget="7.5" maxTarget="*">
+		<plugin name="Songza" version="0.0.4" minTarget="7.5" maxTarget="*">
 			<title lang="EN">3rd Party Songza Plugin</title>
 			<desc  lang="EN">Songza plugin</desc>
 			<creator>Tim Henrich</creator>
 			<email>tim.henrich@gmail.com</email>
-			<url>http://thenrich.github.com/lms-songza/repository/Songza-0.0.3.zip</url>
-			<sha>5f6d47e54ea401647eda11940644cd822a14fb0d</sha>
+			<url>http://thenrich.github.com/lms-songza/repository/Songza-0.0.4.zip</url>
+			<sha>3225745aed536bf03090ffaad9b3769199a4aee9</sha>
 			<link>http://thenrich.github.io/lms-songza/</link>
 		</plugin>
 
